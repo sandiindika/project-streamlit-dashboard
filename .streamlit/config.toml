@@ -1,0 +1,6 @@
+[theme]
+font="sans serif"
+base="dark"
+
+[server]
+runOnSave = true
