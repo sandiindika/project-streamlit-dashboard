@@ -16,7 +16,7 @@ st.markdown(
         #MainMenu {visibility: hidden;}
         header {visibility: hidden;}
         footer {visibility: hidden;}
-        .st-emotion-cache-1y4p8pa {padding-top: 2rem; padding-bottom: 2rem;}
+        .st-emotion-cache-gh2jqd {padding-top: 2rem; padding-bottom: 2rem;}
     </style>""",
     unsafe_allow_html= True
 )
