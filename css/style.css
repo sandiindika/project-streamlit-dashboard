@@ -1,0 +1,38 @@
+h1, p {
+    font-family: "Raleway", sans-serif;
+    
+}
+
+.ms-1 {
+    margin: 1rem;
+}
+
+.ms-2 {
+    margin: 2rem;
+}
+
+.ms-3 {
+    margin: 3rem;
+}
+
+.work-place {
+    font-size: 14pt;
+    opacity: 80%;
+}
+
+.project-detail {
+    text-align: center;
+    font-size: 11pt;
+    opacity: 80%;
+}
+
+#project-link {
+    text-decoration: none;
+    display: block;
+    color: #ffffff;
+}
+
+.label-footer {
+    text-align: center;
+    opacity: 50%;
+}
