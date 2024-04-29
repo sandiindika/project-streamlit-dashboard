@@ -1,6 +1,5 @@
 h1, p {
     font-family: "Raleway", sans-serif;
-    
 }
 
 .ms-1 {
@@ -30,6 +29,10 @@ h1, p {
     text-decoration: none;
     display: block;
     color: #ffffff;
+}
+
+.project-detail:hover {
+    opacity: 100%;
 }
 
 .label-footer {

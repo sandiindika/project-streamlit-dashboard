@@ -191,6 +191,16 @@ card_project(
     "https://www.kaggle.com/code/ndisan/titanic-survival-prediction-xgboost"
 )
 
+# row project 4
+card_project(
+    "./assets/projects/Sans-Light.png",
+    "Expert System for Diagnosing Pregnant Women's Diseases Using the Forward Chaining and Certainty Factor Method",
+    "https://github.com/sandiindika/4fun-AA2",
+    "./assets/projects/Sans-Light.png",
+    "Integration of a Rule-Based Expert System for Diagnosis of Diseases in Pregnant Women",
+    "https://github.com/sandiindika/4fun-ACU"
+)
+
 # Footer
 st.write("---")
 col_footer = st.columns([1, 1])
