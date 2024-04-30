@@ -193,10 +193,10 @@ card_project(
 
 # row project 4
 card_project(
-    "./assets/projects/Sans-Light.png",
+    "./assets/projects/expert-system.png",
     "Expert System for Diagnosing Pregnant Women's Diseases Using the Forward Chaining and Certainty Factor Method",
     "https://github.com/sandiindika/4fun-AA2",
-    "./assets/projects/Sans-Light.png",
+    "./assets/projects/rule-based.png",
     "Integration of a Rule-Based Expert System for Diagnosis of Diseases in Pregnant Women",
     "https://github.com/sandiindika/4fun-ACU"
 )
