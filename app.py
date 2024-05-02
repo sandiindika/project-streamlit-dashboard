@@ -210,7 +210,7 @@ with col_footer[0]:
     st.markdown('''
         - [Blog](https://suryaeceran.hashnode.dev/)
         - [Datasets](https://www.kaggle.com/ndisan/datasets)
-        - [More Projects](https://sans-portfolio.vercel.app/)
+        - [Personal Site](https://sandidika.vercel.app/)
     ''')
 
 with col_footer[1]:
